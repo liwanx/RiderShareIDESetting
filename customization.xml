@@ -1,0 +1,16 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="NewFromTemplate" is_group="true" action_type="-1" position="23">
+      <path value="root" />
+      <path value="收藏夹视图弹出窗口菜单" />
+      <path value="新建" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_action="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="收藏夹视图弹出窗口菜单" />
+      <path value="新建" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
