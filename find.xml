@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="项目 'Assembly-CSharp'" />
+    <option name="defaultScopeName" value="项目 'Assembly-CSharp'" />
+    <option name="SEARCH_SCOPE" value="项目 'Assembly-CSharp'" />
   </component>
 </application>
